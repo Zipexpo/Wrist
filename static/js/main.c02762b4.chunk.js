@@ -978,7 +978,7 @@
                                     ? ""
                                         .concat(
                                           window.location.origin.toString(),
-                                          "/Wrist/#/view/"
+                                          "/#/view/"
                                         )
                                         .concat(J._id)
                                     : "",
@@ -2385,7 +2385,7 @@
             "Work (your job or other work)",
             "Recreational activities",
             "How important is the appearance of your hand?",
-            "How much did the appearance of your wrist/hand bother you in the past week?",
+            "How much did the appearance of your hand bother you in the past week?",
             "How would you rate your injured hand / wrist / hand  on a scale of 0-100? 100 is normal",
           ],
           MHQ: [
